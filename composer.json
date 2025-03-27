@@ -1,5 +1,5 @@
 {
-    "name": "heidelpay/php-message-code-mapper",
+    "name": "codrutzzy/php-message-code-mapper",
     "description": "A library to convert heidelpay message codes into customer friendly messages.",
     "type": "library",
     "keywords": ["heidelpay", "php", "payment", "error-messages", "errors", "messages"],
